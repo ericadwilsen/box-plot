@@ -1,7 +1,9 @@
 # Box Plot
 A simple box plot written in python.  Click on this [binder](https://mybinder.org/) link to launch the interactive python notebook in your browser: 
 
-**<p style="text-align: center;">[https://mybinder.org/v2/gh/ericadwilsen/box-plot/master](https://mybinder.org/v2/gh/ericadwilsen/box-plot/master)**</p>
+<p align="center">
+**[https://mybinder.org/v2/gh/ericadwilsen/box-plot/master](https://mybinder.org/v2/gh/ericadwilsen/box-plot/master)**
+</p>
 
 Data: [NMR-country-data-PLoS-aug-2011-final.xls](https://www.healthynewbornnetwork.org/resource/neonatal-mortality-rate-country-data-excel-spreadsheet/)  From the [Healthy Newborn Network](https://www.healthynewbornnetwork.org/)
 
