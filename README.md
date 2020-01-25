@@ -7,7 +7,7 @@ A simple box plot script written in python.  To see it run, click on this link, 
 
 That will launch an interactive python environment in your browser.  It will take a while, but once it starts up, double-click on "box-plot.ipynb", then, in the new tab that appears, press the "run" button at the top to run each step, one after the other.
 
-When you click the mybinder.org link above, it opens a page at mybinder.org which grabs this GitHub repository and launches Jupyter in a Docker container and makes the result available to you as a web page.  The notebook "box-plot.ipynb" is a small amount of python code that uses powerful libraries to read and plot the numers in the spreadsheet.  You can edit that code and run it.  You can't save the results back to this GitHub repository, but you can download it and save it on your computer by selecting the "File" menuitem "Download as".  When you close the browser tab, everything goes away.
+How does this work?  When you click the mybinder.org link above, it opens a page at mybinder.org which grabs this GitHub repository and launches Jupyter in a Docker container and makes the result available to you as a web page.  The notebook "box-plot.ipynb" is a small amount of python code that uses powerful libraries to read and plot the numers in the spreadsheet.  You can edit that code and run it.  You can't save the results back to this GitHub repository, but you can download it and save it on your computer by selecting the "File" menuitem "Download as".  When you close the browser tab, everything goes away.
 
 A nice introduction on Jupyter Notebooks is at [https://www.codecademy.com/articles/how-to-use-jupyter-notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
 
