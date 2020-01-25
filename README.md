@@ -1,13 +1,15 @@
 # Box Plot
-A simple box plot written in python.  Click on this link to launch the interactive python notebook in your browser: 
+A simple box plot written in python.  So you can still see these instructions, open this link in a new tab: 
 
 <p align="center">  
-<a href="https://mybinder.org/v2/gh/ericadwilsen/box-plot/master" target="_blank">https://mybinder.org/v2/gh/ericadwilsen/box-plot/master</a>
+<a href="https://mybinder.org/v2/gh/ericadwilsen/box-plot/master">https://mybinder.org/v2/gh/ericadwilsen/box-plot/master</a>
 </p>
 
-Once that starts up, double-click on "box-plot.ipynb", then press the "run" button at the top to run each step, one after the other.
+That will launch an interactive python environment in your browser.  It will take a while, but once it starts up, double-click on "box-plot.ipynb", then, in the new tab that appears, press the "run" button at the top to run each step, one after the other.
 
-When you click that link, it opens a page at mybinder.org which grabs this GitHub repository and launches Jupyter Lab.
+When you click that link, it opens a page at mybinder.org which grabs this GitHub repository and launches Jupyter in a Docker container.  The notebook "box-plot.ipynb" is a small amount of python code that uses powerful libraries to read and plot the numers in the spreadsheet.  You can edit that code and run it.  You can't save the results back to this GitHub repository, but you can download it and save it on your computer by selecting the "File" menuitem "Download as".
+
+A nice introduction on Jupyter Notebooks is at [https://www.codecademy.com/articles/how-to-use-jupyter-notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
 
 The data file [NMR-country-data-PLoS-aug-2011-final.xls](https://www.healthynewbornnetwork.org/resource/neonatal-mortality-rate-country-data-excel-spreadsheet/) is from the [Healthy Newborn Network](https://www.healthynewbornnetwork.org/).
 
