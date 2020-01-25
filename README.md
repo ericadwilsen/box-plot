@@ -1,5 +1,5 @@
 # Box Plot
-A simple box plot script written in python.  So you can still see these instructions, open this link in a new tab: 
+A simple box plot script written in python.  To see it run, open this link in a new tab, but open it in a new tab so you can still see these instructions: 
 
 <p align="center">  
 <a href="https://mybinder.org/v2/gh/ericadwilsen/box-plot/master">https://mybinder.org/v2/gh/ericadwilsen/box-plot/master</a>
